@@ -1,0 +1,6 @@
+{
+  "name": "Deutsch Racer: The German Challenge",
+  "description": "A realistic 3D racing game and German language learning platform featuring 7 progressive levels, interactive grammar/vocabulary checkpoints, speech pronunciation assessment, reading comprehension lessons, and a teacher dashboard.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
